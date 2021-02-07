@@ -7,3 +7,9 @@ qweqwe
 456456456
 
 11111111
+
+void main()
+{
+	print("hello,world~!");
+
+}
